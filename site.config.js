@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'taco',
-  domain: 'https://new-blog-brown.vercel.app/',
+  domain: 'https://new-blog-brown.vercel.app',
   author: 'taco',
 
   // open graph metadata (optional)
