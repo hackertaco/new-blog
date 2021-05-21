@@ -19,6 +19,7 @@ module.exports = {
   // social usernames (optional)
   github: 'hackertaco',
   linkedin: 'imsa1224',
+  notion: 'bio-f3c9bda045a546e7a55faebe6ec11edb',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
