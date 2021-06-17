@@ -35,6 +35,7 @@ export default class MyDocument extends Document {
             /> */}
 
             <link rel='manifest' href='/manifest.json' />
+            <meta name="google-site-verification" content="BxRuv29TOBXhJMAWVR4zk2qSY61G8cE6dhXdidvxGsc" />
           </Head>
 
           <body>
